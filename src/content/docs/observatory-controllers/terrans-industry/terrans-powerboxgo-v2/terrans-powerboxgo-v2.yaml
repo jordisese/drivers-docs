@@ -1,8 +1,7 @@
 # Display Names (Human-Friendly)
 driver_Name: Terrans PowerBoxGo V2
-categories: ["powers"]
-manufacturer_name: Generic
+categories: ["observatory-controllers"]
+manufacturer_name: Terrans Industry
 
 # Additional Metadata
 executable: indi_terrans_powerboxgo_v2
-

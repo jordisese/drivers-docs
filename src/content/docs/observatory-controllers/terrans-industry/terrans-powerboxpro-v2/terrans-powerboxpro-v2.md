@@ -1,6 +1,6 @@
 ---
 title: Terrans PowerBoxPro V2
-categories: ["powers"]
+categories: ["observatory-controllers"]
 description: Terrans PowerBoxPro V2
 thumbnail: ./terrans-powerboxgo-v2.webp
 ---

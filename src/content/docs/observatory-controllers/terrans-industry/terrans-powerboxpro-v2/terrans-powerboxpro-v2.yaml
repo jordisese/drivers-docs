@@ -1,10 +1,8 @@
 # Display Names (Human-Friendly)
 driver_Name: Terrans PowerBoxPro V2
-categories: ["powers"]
-manufacturer_name: Generic
+categories: ["observatory-controllers"]
+manufacturer_name: Terran Industry
 
 # Additional Metadata
 executable: indi_terrans_powerboxpro_v2
 Version: 1.0
-
-

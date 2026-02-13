@@ -1,6 +1,6 @@
 # Display Names (Human-Friendly)
 driver_Name: Pegasus UPB
-categories: ["powers"]
+categories: ["observatory-controllers"]
 manufacturer_name: Pegasus Astro
 
 # Additional Metadata
@@ -8,4 +8,3 @@ executable: indi_pegasus_upb
 Platforms: Linux, MacOS, BSD
 Author: Jasem Mutlaq
 version: 1.0
-

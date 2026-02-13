@@ -1,8 +1,8 @@
 ---
-title: Arduino Power Box
-categories: ["powers"]
-description: Arduino Power Box
-thumbnail: ./arduino-powerbox.webp
+title: Terrans PowerBoxGo V2
+categories: ["observatory-controllers"]
+description: Terrans PowerBoxGo V2
+thumbnail: ./terrans-powerboxgo-v2.webp
 ---
 
 > [!NOTE]

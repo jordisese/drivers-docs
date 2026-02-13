@@ -1,6 +1,6 @@
 ---
 title: Pegasus Ultimate Power Box
-categories: ["powers"]
+categories: ["observatory-controllers"]
 description: Pegasus Ultimate Power Box
 thumbnail: ./pegasus-upb.webp
 ---
