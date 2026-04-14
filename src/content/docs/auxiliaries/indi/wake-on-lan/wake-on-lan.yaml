@@ -3,8 +3,7 @@ driver_name: Wake On LAN
 manufacturer_name: Indi
 
 # Categories (Required - can be multiple)
-categories:
-  - auxiliaries
+categories: ["auxiliaries"]
 
 # Additional Metadata (Optional)
 executable: indi_wake_on_lan

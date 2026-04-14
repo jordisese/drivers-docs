@@ -3,8 +3,7 @@ driver_name: Hakos Roll Off Roof
 manufacturer_name: Hakos Observatory
 
 # Categories (Required - can be multiple)
-categories:
-  - domes
+categories: ["domes"]
 
 # Additional Metadata (Optional)
 website: https://www.indilib.org/
