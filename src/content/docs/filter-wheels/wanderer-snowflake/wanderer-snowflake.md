@@ -2,7 +2,7 @@
 title: Wanderer Snowflake Filter Wheel
 categories: ["filter-wheels"]
 description: INDI driver for the Wanderer Astro Snowflake filter wheel family (WSFW368 36 mm and WSFW508 50 mm).
-thumbnail: ./wanderer-snowflake.jpeg
+thumbnail: ./wanderer-snowflake.webp
 ---
 
 ## Overview
@@ -16,8 +16,6 @@ The Wanderer Snowflake is a motorised electronic filter wheel available in two v
 
 The wheel communicates via a USB-to-serial interface (CDC) using a simple numeric command protocol at **19200 baud, 8N1**. The device continuously streams its status over the serial port, which the driver uses to track position without any dedicated polling command.
 
-![Wanderer Snowflake filter wheel](./images/wanderer-snowflake-device.jpeg)
-<!-- PLACEHOLDER: replace with a photo of the physical wheel (front / back view) -->
 
 ## Features
 
